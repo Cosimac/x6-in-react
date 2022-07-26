@@ -1,0 +1,61 @@
+.edgeTooltips {
+  position: absolute;
+  left: -300px;
+  top: -100px;
+}
+.edgeDel {
+  width: 30px;
+  height: 30px;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAPCAYAAAA/I0V3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADESURBVHgBrVIBDcIwEPwuFTAJc0BRQFBAUABTwCTggOAACZWAA+aAOmAOyn3zCU/TNSPhku/9b3/53qeGFGKMHRVgjAk0B4hesQyn+yw+tGCOnfCIuMr/FWJAHNDHdcDUyaB4ouhoOdYWR/+LCJPGZF68OPHllEedM86cNzIl+ZLtPcBH8cr5kE9rKjdpM14kmsVfRZPKfVUkz2UP9iLcphVnsCpvReiFWXSnAix9rnLBek9UxtcGDR9ovoE2VEdA9GzhDdDWaUiLijqMAAAAAElFTkSuQmCC)
+    no-repeat center #fa7c78;
+  border-radius: 5px;
+}
+.edgeTitle {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 70px;
+  background: #fff;
+  border: 1px solid #40a9ff;
+}
+.edgeDetail {
+  position: relative;
+  top: 0;
+  left: 0;
+  background: #bae7ff;
+  width: 200px;
+}
+.tooltipsCommon {
+  font-size: 16px;
+  margin: 0;
+  padding-left: 10px;
+}
+.tooltipsMoney {
+  padding-bottom: 5px;
+}
+.tooltipsDate {
+  font-size: 12px;
+  color: #ccc;
+}
+.detailContent {
+  margin-bottom: 10px;
+}
+.edgeCode {
+  margin: 0;
+  padding-left: 10px;
+  font-size: 12px;
+}
+.edgeValue {
+  padding-left: 10px;
+}
+.nodeTooltips {
+  /* position: absolute; */
+  /* left: -300px;
+  top: -100px; */
+  /* width: 150px; */
+  height: 160px;
+  padding: 10px;
+  border: 1px solid #36cfc9;
+  background: #e6fffb;
+}
